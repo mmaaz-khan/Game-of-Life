@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Salmonella
+comment0.text=\r\n\ A\ bacterium\ added\ into\ Lifev2\ by\ Jamil&Maaz\ \r\n\ Inherits\ from\ abstract\ class\ Cell\r\n
+comment1.params=field\ location\ col
+comment1.target=Salmonella(Field,\ Location,\ javafx.scene.paint.Color)
+comment1.text=\r\n\ Create\ a\ new\ Salmonella.\r\n\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ is\ how\ the\ Salmonella\ decides\ if\ it's\ alive\ or\ not\r\n
+numComments=3
